@@ -1,6 +1,6 @@
 ayo folks i'm charls. a first year computer science student and i wanna die :(
 
-CONTACT ME ON THESE PLATFORMS BELOW 
+FOR ANY CONCERNS HIT ME UP ON THESE PLATFORMS BELLOW :)
 
 DISCORD: Charls#8527
 
