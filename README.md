@@ -7,5 +7,5 @@ this is for school uses and a dump for my side projects :)
 * python
 * c++
 
-*would love to learn in the future*
+*would love to learn JS in the future*
 
