@@ -2,6 +2,10 @@
 
 this is for school uses and a dump for my side projects :)
 
-*i like python, c++ and also coffee ☕*
+**likes**
 
-* would love to learn js though*
+* python
+* c++
+
+*would love to learn in the future*
+
