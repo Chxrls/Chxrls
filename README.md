@@ -5,7 +5,7 @@ this is for school uses and a dump for my side projects :)
 **likes**
 
 * python
-* c#
+* c++
 
 *would love to learn JS in the future*
 
