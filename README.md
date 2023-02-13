@@ -9,5 +9,5 @@ note: this iz my 2nd github account cause i dont want my school to see my mess o
 * python
 * c++
 
-*would love to learn JS in the future*
+*would love to learn JS and WebDev in the future*
 
