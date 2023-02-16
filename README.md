@@ -1,6 +1,6 @@
 # Hi, i'm Charls! and pls kill me :P
 
- Yo folks. I'm Charls, A first year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design.
+ Yo folks. I'm Charls, A first year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design. I also love anime :)
 
 -----------------------------------------------------------------------------------------------------------------------
 
