@@ -1,6 +1,8 @@
 # Hi, i'm Charls! and pls kill me :P
 
-### Yo folks. i'm charls, A first year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design
+ Yo folks. I'm Charls, A first year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design.
+
+-----------------------------------------------------------------------------------------------------------------------
 
 **Tools that I'm familiar with:**
 
@@ -14,7 +16,7 @@
 * Tensorflow
 * Web Development
 
-**Language/s and Technologies that I'm familiar with**
+**Language/s and Technologies that I'm familiar with.**
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
