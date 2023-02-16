@@ -16,11 +16,6 @@
 * Tensorflow
 * Web Development
 
-**Get in touch**
-
-* Email: charlsforschool@gmail.com
-* Facebook: https://www.facebook.com/melindocharls/
-* Discord: Charls#8527
 
 **Language/s and Technologies that I'm familiar with.**
 
@@ -28,4 +23,12 @@
 
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+
+
+--------
+**Where to contact me**
+
+* Email: charlsforschool@gmail.com
+* Facebook: https://www.facebook.com/melindocharls/
+* Discord: Charls#8527
