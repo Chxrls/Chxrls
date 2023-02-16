@@ -1,14 +1,23 @@
-## pls kill me 
+# Hi, i'm Charls! and pls kill me :P
 
-this is for school uses and a dump for my side projects :)
+### Yo folks. i'm charls, A first year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design
 
-note: this iz my 2nd github account cause i dont want my school to see my mess of unfinished stuff xD
+**Tools that I'm familiar with:**
 
-**likes**
+* Photoshop
+* Illustrator
+* Premiere pro
+* Blender (Decent at it XD)
 
-* python
-* c++
+**Currently learning:**
 
-*would love to learn JS and WebDev in the future*
+* Tensorflow
+* Web Development
 
-![y2mate com - Bocchi the Rock  Hitori gets cyberpsychosis_1080p](https://user-images.githubusercontent.com/114855855/218479619-cee30869-8d41-4c78-8475-b736490a4b12.gif)
+**Language/s and Technologies that I'm familiar with**
+
+<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+<img align="left" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
