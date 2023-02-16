@@ -16,6 +16,12 @@
 * Tensorflow
 * Web Development
 
+**Get in touch**
+
+* Email: charlsforschool@gmail.com
+* Facebook: https://www.facebook.com/melindocharls/
+* Discord: Charls#8527
+
 **Language/s and Technologies that I'm familiar with.**
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
