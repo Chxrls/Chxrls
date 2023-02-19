@@ -27,7 +27,6 @@
 
 
 --------
-**Where to contact me**
+**Iz my discord alt account for school purposes and side projects**
 
-* Email: charlsforschool@gmail.com
-* Discord: Charls#8527
+
