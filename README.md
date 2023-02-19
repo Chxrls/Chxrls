@@ -27,6 +27,6 @@
 
 
 --------
-**Iz my discord alt account for school purposes and side projects**
+**Iz my 2nd alt account for school purposes and side projects**
 
 
