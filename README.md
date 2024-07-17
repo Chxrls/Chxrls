@@ -1,6 +1,6 @@
 # Hi, i'm Charls! and pls kill me :P
 
- Yo folks. I'm Charls, A second year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design. I also like japanese media :)
+ Yo folks. I'm Charls, A third year computer science student. I'm also a graphic designer and has a passion for motion graphics and 3d design. I also like japanese media :)
 
 -----------------------------------------------------------------------------------------------------------------------
 
