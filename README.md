@@ -13,8 +13,10 @@
 
 **Currently learning:**
 
-* Tensorflow
+* PyTorch
+* Tensor Flow
 * Web Development
+* REST APIs
 
 
 **Language/s and Technologies that I'm familiar with.**
