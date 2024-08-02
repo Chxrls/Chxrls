@@ -14,7 +14,7 @@
 **Currently learning:**
 
 * PyTorch
-* Tensor Flow
+* Tensorflow
 * Web Development
 * REST APIs
 
