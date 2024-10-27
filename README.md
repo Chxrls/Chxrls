@@ -1,5 +1,5 @@
 # ✨ About Me:
-I'm Charls, a third year computer science student. I’m also a graphic designer and has a passion for motion graphics. I also like japanese media.
+I'm **Charls**, a *third year* computer science student. I’m also a *graphic designer* and has a passion for motion graphics. I also like japanese media.
 
 
 # 🤓 Languages, Frameworks and Applications I Use
