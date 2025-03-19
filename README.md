@@ -7,5 +7,13 @@ I'm **Charls**, a *third year* computer science student. I’m also a *graphic d
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br>
 
+# 🥔 Technical Skills
+• **Machine learning** - Convolutional Nerual Networks & Constraint Programming <br>
+• **Data Analysis & Gathering** - Web Scraping <br>
+• **Web Dev** - Backend via Flask & Django <br>
+• **Networking** - Physical Network Design & Setup <br>
+• **Embedded Programming** - IoT Firmware Desgn (ESP32, Arduino, Raspi) <br>
+• **Computer Hardware & Software** - Diagnostics, Repair, Setup & Data Recovery <br>
+
 # 📊 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chxrls&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
