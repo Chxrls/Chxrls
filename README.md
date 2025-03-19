@@ -12,7 +12,7 @@ I'm **Charls**, a *third year* computer science student. I’m also a *graphic d
 • **Data Analysis & Gathering** - Web Scraping <br>
 • **Web Dev** - Backend via Flask & Django <br>
 • **Networking** - Physical Network Design & Setup <br>
-• **Embedded Programming** - IoT Firmware Desgn (ESP32, Arduino, Raspi) <br>
+• **Embedded Programming** - IoT Firmware Design (ESP32, Arduino, Raspi) <br>
 • **Computer Hardware & Software** - Diagnostics, Repair, Setup & Data Recovery <br>
 
 # 📊 Stats
