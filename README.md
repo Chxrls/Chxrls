@@ -16,4 +16,5 @@ I'm **Charls**, a *third year* computer science student. I’m also a *graphic d
 • **Computer Hardware & Software** - Diagnostics, Repair, Setup & Data Recovery <br>
 
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chxrls&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chxrls&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=Chxrls&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
