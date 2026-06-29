@@ -1,5 +1,5 @@
 # ✨ Me
-I'm **Charls**, a *Fourth year* computer science student. I’m also a *graphic designer* and has a passion for motion graphics. I also like japanese media.
+I'm **Charls**, a *computer science* graduate. I’m also a *graphic designer* and has a passion for motion graphics. I also like japanese media.
 
 
 # 🤓 Languages & Frameworks
